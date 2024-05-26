@@ -1,0 +1,20 @@
+# Ignore specific large files
+Selenium/chrome-win64.zip
+Selenium/chrome-win64/chrome-win64/chrome.dll
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
